@@ -1,6 +1,11 @@
-# Discord Data Dump
+<div align="center">
+  <h1><code>Discord Data Dump</code></h1>
+  <p>
+    This Python script allows you to extract channel and message data from a Discord server using the `discord.py` library. It fetches the channel structure and messages from each text channel and saves the information in a JSON file.
+  </p>
+</div>
 
-This Python script allows you to extract channel and message data from a Discord server using the `discord.py` library. It fetches the channel structure and messages from each text channel and saves the information in a JSON file.
+---
 
 ## Prerequisites
 
